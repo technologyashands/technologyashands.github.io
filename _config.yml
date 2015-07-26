@@ -5,4 +5,4 @@ relative_permalinks: true
 
 collections:
   brooklyn:
-    output: false
+    output: true

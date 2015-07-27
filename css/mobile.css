@@ -1,5 +1,15 @@
 @media (max-width: 1024px) {
 
+.logo{
+  position:absolute;
+  top:10px;
+  left:20px;
+}
+
+.logo img{
+  width:150px;
+}
+
     .headerbox{
       width:100%;
       padding-top:20px;

@@ -17,6 +17,9 @@
 .headerimage{
   background-color:black;
   text-align:center;
+}
+
+.headerimage img{
   max-width:100%;
 }
 

@@ -1,6 +1,16 @@
 @media (min-width: 1025px) {
 
 
+.logo{
+  position:absolute;
+  top:20px;
+  left:20%;
+}
+
+.logo img{
+  width:250px;
+}
+
 .headerbox{
   width:100%;
   padding-top:20px;
@@ -34,7 +44,7 @@ h1{
 h2{
   font-size:20px;
   line-height:25px;
-  font-weight:300;
+  font-weight:400;
 }
 
 .greycontainer{
@@ -45,6 +55,7 @@ h2{
 .introtext{
   width:600px;
   margin:auto;
+  
 }
 
 .gridbox{

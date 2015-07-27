@@ -10,6 +10,12 @@
   width:150px;
 }
 
+.headerimage{
+  width:100%;
+  background-color:black;
+  text-align:center;
+}
+
     .headerbox{
       width:100%;
       padding-top:20px;

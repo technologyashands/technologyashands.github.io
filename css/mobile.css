@@ -16,6 +16,10 @@
   text-align:center;
 }
 
+.headerimage img{
+  width:100%;
+}
+
     .headerbox{
       width:100%;
       padding-top:20px;

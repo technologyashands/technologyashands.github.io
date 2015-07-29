@@ -3,6 +3,7 @@ title: Annie Raso
 description: 
 image: http://cdn.shopify.com/s/files/1/0482/2421/files/ANNIE_3_1_1024x1024.JPG
 profileurl: http://www.fiercelymade.com/pages/annie-raso
+layout: artist
 ---
 
 About Annie: Annie went to SUNY New Paltz to study art, but soon discovered that it was woodworking that she loved as it was the perfect blend of math, science, physics, art, design, mechanics, and functionality. We absolutely love her little ring boxes, Annie makes special selections of woods and loves to work with really difficult and oily ones...we got to feast our eyes on a coveted piece of ebony she's been saving for the perfect project. She's a chick amongst the bros in a large shared wood shop in Bushwick, Brooklyn, NY, but that doesn't stop Annie from wearing her skirt to work and building a nasty domino set specially for some shop downtime together. 

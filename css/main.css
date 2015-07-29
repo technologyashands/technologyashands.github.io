@@ -23,6 +23,10 @@
   max-width:900px;
 }
 
+.smaller img{
+  width:600px;
+}
+
 .headerbox{
   width:100%;
   padding-top:20px;
@@ -63,7 +67,6 @@ h2{
 
 .greycontainer{
   width:100%;
-  padding-top:50px;
 }
 
 .introtext{
@@ -91,7 +94,8 @@ h2{
 .sitebox .image{
   background-size:cover;
     width:350px;
-  height:480px;
+  height:350px;
+  background-position:center;
 }
 
 .sitebox:nth-child(3n+2){

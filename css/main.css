@@ -72,7 +72,10 @@ h2{
 .introtext{
   width:600px;
   margin:auto;
-  
+}
+
+.introtext img{
+  width:100%;
 }
 
 .gridbox{

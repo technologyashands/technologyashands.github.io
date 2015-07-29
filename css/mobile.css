@@ -3,11 +3,11 @@
 .logo{
   position:absolute;
   top:10px;
-  left:20px;
+  left:10px;
 }
 
 .logo img{
-  width:150px;
+  width:100px;
 }
 
 .headerimage{

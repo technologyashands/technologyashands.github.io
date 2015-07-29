@@ -125,6 +125,8 @@ h3{
 .artisthero{
   width:800px;
   padding:20px;
+  display:block;
+  margin:auto;
 }
 
 

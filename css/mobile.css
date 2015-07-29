@@ -82,6 +82,12 @@
       margin-bottom:30px;
     }
 
+.sitebox .image{
+  background-size:cover;
+    width:90%;
+  background-position:center;
+}
+
     .sitebox img{
       width:100%;
     }

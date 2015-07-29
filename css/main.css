@@ -78,6 +78,11 @@ h2{
   width:100%;
 }
 
+.introtext video{
+  width:100%;
+}
+
+
 .gridbox{
   width:1200px;
   margin:auto;

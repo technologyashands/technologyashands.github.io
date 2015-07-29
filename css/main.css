@@ -86,7 +86,12 @@ h2{
   display:inline-block;
   margin-top:20px;
   margin-bottom:20px;
+}
+
+.sitebox .image{
   background-size:cover;
+    width:350px;
+  height:480px;
 }
 
 .sitebox:nth-child(3n+2){

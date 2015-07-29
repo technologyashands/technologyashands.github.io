@@ -47,7 +47,26 @@ layout: default
   </div>
   
 
+<div class="greycontainer">
+<div class="gridbox">
 
+	{% for link in site.artists %}
+
+	<div class="sitebox">
+		<a href="{{link.siteurl}}">
+		<div class="image">
+			<img src="{{link.image}}" />
+		</div>
+		<div class="description">
+			<h3>{{link.title}}</h3>
+			<p>{{link.description}}</p>
+		</div>
+		</a>
+	</div>
+
+	{% endfor %}
+</div>
+</div>
       
   <div class="footerbox">
     <a href="http://www.fiercelymade.com"><img class="footerlogo" src="//cdn.shopify.com/s/files/1/0296/9253/t/12/assets/FMlogowhite.png?11880984117798722211"></a>

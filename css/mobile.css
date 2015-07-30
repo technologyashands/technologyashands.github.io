@@ -138,6 +138,7 @@
 
 .introtext iframe{
   margin-top:20px !important;
+  max-width:100% !important;
 }
 
 

@@ -8,6 +8,6 @@ layout: artist
 
 David Silver has produced a sketch of a floppy disk - an archaic iconic object from the timeline of technology and is producing reproductions using a photocopied. Combining analog and digital processes in a fascinating combination.
 
-![](/images/david1.jpg)
-![](/images/david2.jpg)
-![](/images/david3.jpg)
+![](/images/david1.JPG)
+![](/images/david2.JPG)
+![](/images/david3.JPG)

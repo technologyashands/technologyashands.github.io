@@ -6,4 +6,4 @@ profileurl: http://www.fiercelycurious.com/collections/dael-oates
 layout: artist
 ---
 
-Dael will be showcasing his tool shots.
+Dael will be showcasing his tool shots. More coming soon.

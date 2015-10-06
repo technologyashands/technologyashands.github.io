@@ -6,4 +6,4 @@ profileurl: http://www.fiercelymade.com/pages/noble-goods
 layout: artist
 ---
 
-Noble Goods has created this Shard Coffee Table by combining bent walnut plywood, concrete, brass.
+Noble Goods has created the Shard Table. This cocktail table was made by combining bent walnut plywood, concrete, brass.

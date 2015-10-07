@@ -74,7 +74,9 @@
 
     .sitebox{
       width:20%;
+      padding:2%;
       max-width:350px;
+      height:50px;
       margin:auto;
       border-radius:2%;
       background-color:white;

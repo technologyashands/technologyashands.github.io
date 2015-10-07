@@ -4,9 +4,13 @@ description:
 image: https://cdn.shopify.com/s/files/1/0296/9253/files/Ryan-Frank-Overhead-Redwoods.jpg?5920304988925280903
 profileurl: http://www.ryanmfrank.com/
 layout: artist
+
+Overhead (Twin Redwoods),
+32 x 48 Inches,
+Photographic Light Sculpture
 ---
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/RYAN-FRANK-Foliage_32x48.jpg?16325530173475485272)
-Overhead - Foliage,
+Overhead (Foliage),
 32 x 48 Inches,
 Photographic Light Sculpture
 

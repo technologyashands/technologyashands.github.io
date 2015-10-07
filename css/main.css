@@ -15,12 +15,12 @@
 }
 
 .headerimage{
-  background-color:black;
   text-align:center;
 }
 
 .headerimage img{
   max-width:900px;
+  padding-top:10px;
 }
 
 .smaller img{

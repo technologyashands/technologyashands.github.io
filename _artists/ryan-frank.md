@@ -5,7 +5,7 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/Ryan-Frank-Overhead-Red
 profileurl: http://www.ryanmfrank.com/
 layout: artist
 ---
-
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/RYAN-FRANK-Foliage_32x48.jpg?16325530173475485272)
 ##Process
 
 Ryan will be hanging some ceiling fixtures!

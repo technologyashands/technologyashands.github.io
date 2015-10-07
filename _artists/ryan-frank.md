@@ -1,7 +1,7 @@
 ---
 title: Ryan Frank
 description: 
-image: 
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/Ryan-Frank-Overhead-Redwoods.jpg?5920304988925280903
 profileurl: http://www.ryanmfrank.com/
 layout: artist
 ---

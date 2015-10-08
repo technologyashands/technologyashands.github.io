@@ -2,7 +2,7 @@
 title: Black Table
 description: 
 image: https://cdn.shopify.com/s/files/1/0296/9253/files/BLACK-TABLE-SERVING-BOARDS-MAIN.jpg?12176726528980303206
-profileurl: http://www.fiercelymade.com/pages/pernt
+profileurl: http://blacktable.org/en/work/bt/
 layout: artist
 ---
 

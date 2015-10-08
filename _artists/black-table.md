@@ -22,22 +22,4 @@ His proposal is translated into simple objects, where the use of concrete is pre
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 ##USAGE OF TECHNOLOGY
-"Intertwined wood and concrete: table and cutting/serving boards. These two objects come together
-
-by mixing techniques traditionally used in carpentry and in architecture. 
-
-In these pieces, wood and concrete are deeply joined. Still, this mixture of wood joinery and 
-
-concrete craft is mutually exclusive. Wood’s nature tends towards both expansion and contraction, 
-
-concrete's nature doesn’t. It cracks. Hence, a rubber band thoughtfully inserted in between both 
-
-materials performs as a buffer zone that allows the wood to freely move without damaging the 
-
-concrete. This concept is based in several architecture construction methods that allow materials to 
-
-expand and contract without affecting neither their environment nor their adjunct pieces. 
-
-The wood and mold that cast the concrete are shaped using a CNC router. This allows the wood 
-
-and the concrete to come together with rigorous accuracy." - Carlos Meza
+"Intertwined wood and concrete: table and cutting/serving boards. These two objects come together by mixing techniques traditionally used in carpentry and in architecture. In these pieces, wood and concrete are deeply joined. Still, this mixture of wood joinery and concrete craft is mutually exclusive. Wood’s nature tends towards both expansion and contraction, concrete's nature doesn’t. It cracks. Hence, a rubber band thoughtfully inserted in between both materials performs as a buffer zone that allows the wood to freely move without damaging the concrete. This concept is based in several architecture construction methods that allow materials to expand and contract without affecting neither their environment nor their adjunct pieces. The wood and mold that cast the concrete are shaped using a CNC router. This allows the wood and the concrete to come together with rigorous accuracy." - Carlos Meza

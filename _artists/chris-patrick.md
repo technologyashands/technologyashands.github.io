@@ -14,6 +14,9 @@ C print on metallic paper, mounted on aluminum,
 2015,
 Series: 1 of 5
 
+
+Chris Klapper and Patrick Gallagher are a husband and wife artistic duo who use technology ovten in their vernacular having built their own CNC machines, teaching themselves coding and programming of lights and video installations. For this show, they are creating digital art playing on the usage of data as both as medium and representation!
+
 ##USAGE OF TECHNOLOGY
 A sample from a larger video project which uses a countdown frame to express the transfinite number, π. We created this image with graphical and video editing software.  Using digital photo processing on metallic paper it is mounted on an aluminum sheet.
 

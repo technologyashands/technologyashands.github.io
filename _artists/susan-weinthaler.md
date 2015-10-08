@@ -8,7 +8,7 @@ layout: artist
 
 Susan Weinthaler makes individual works of art called Bits. Each Bit is outfitted with a magnetic backing and is mounted on a steel canvas with other works to create a collection with infininte arrangements. Susan encourages the viewer to engage with her work and explore all of it's possibilities.
 
-Susan's newest work, which is currently being created, explores the usage of a vinegar solution and a car battery to etch unique artworks onto her metallic surfaces. This permanent etching process was of course, discovered through some online research. 
+Susan's newest work, which is currently being created, explores the usage of a vinegar solution and a car battery to etch unique artworks onto her metallic surfaces. This permanent etching process was discovered through online research. 
 
 ##PROCESS
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SUSAN-WEINTHALER-PROCESS-1.jpg?13615407881001651761)

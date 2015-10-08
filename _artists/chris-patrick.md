@@ -8,7 +8,7 @@ layout: artist
 
 ##USAGE OF TECHNOLOGY
 A sample from a larger video project which uses a countdown frame to express the transfinite number, π. We created this image with graphical and video editing software.  Using digital photo processing on metallic paper it is mounted on an aluminum sheet.
-![] (https://cdn.shopify.com/s/files/1/0296/9253/files/CHRIS-KLAPPER-PATRICK-GALLAGHER-DATA.jpg?5859034278076740982)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/CHRIS-KLAPPER-PATRICK-GALLAGHER-DATA.jpg?5859034278076740982)
 
 ##PROCESS
 Chris and Patrick are creating digital art playing with data as a medium and representation!

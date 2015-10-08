@@ -20,11 +20,13 @@ layout: default
 
 <p class="center"><strong><a href="https://www.facebook.com/events/1693445730879511/">RSVP on Facebook</a></strong></p>
 
-<p>The hand-made movement has often rejected technology relying on traditional tools, techniques and skills in the creation of their unique works. However, the modern artist and maker has proven to embrace technology in many ways - self taught techniques learned via YouTube, Google as a source of research and inspiration, digital photography and computer manipulations, CNC machines in woodworking and artists who have fully embraced coding and hardware to control their works and video content. Meanwhile, the omnipresent usage of social media in all its forms has created a platform in which the artist and maker can engage directly with their audience.</p>
+<p>The hand-made movement has often rejected technology relying on traditional tools, techniques and skills in the creation of their unique works. However, the modern artist and maker has proven to embrace technology in many ways - self taught techniques learned via YouTube, Google as a source of research and inspiration, digital photography and computer manipulations, CNC machines in woodworking and artists who have fully embraced coding and hardware to control their works and video content. Meanwhile, the omnipresent usage of social media in all its forms has created a platform in which the artist and maker can engage directly with their audience. <a href="#" id="readmore">Read more <i class="fa fa-angle-double-right"></i></a></p>
 
+<span class="textblock1">
 <p>These factors have become the impetus of this show's theme where you will see how each of the artists and makers have embraced the challenge of creating new bodies of work where they can demonstrate that technology has been utilized in the creation of their pieces.</p>
 
 <p>You will often find that some artists have chosen to confront the negative effects of technology reflecting on what quickly becomes obsolete and is left behind as waste or discarded as we constantly seek the new and improved.</p>
+</span>
 
 <img src="/images/skygallery.png" />
 
@@ -66,5 +68,15 @@ layout: default
 <p class="center" style="clear:both;"><em>More coming soon...</em></p>
 
 
-
-
+<script>
+$(document).ready(function() {
+    
+    $( "#readmore" ).click(function(e) {
+        e.preventDefault();
+		$("#readmore").hide();
+        $("#textblock2").show();
+     
+    });
+    
+  });
+</script>

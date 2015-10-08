@@ -6,6 +6,11 @@ profileurl: http://www.fiercelycurious.com/collections/chris-and-patrick-bio
 layout: artist
 ---
 
+ENCRYPTED 
+38" h x 5" w x 2.5" d
+Programmable LED, Resin, Acrylic 
+2015
+
 ##USAGE OF TECHNOLOGY
 A sample from a larger video project which uses a countdown frame to express the transfinite number, π. We created this image with graphical and video editing software.  Using digital photo processing on metallic paper it is mounted on an aluminum sheet.
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/CHRIS-KLAPPER-PATRICK-GALLAGHER-DATA.jpg?5859034278076740982)

@@ -10,6 +10,6 @@ Horse Cycles will be bringing a handmade packed full of technology! The bike was
 
 <iframe src="https://player.vimeo.com/video/101456089?color=ff9933&portrait=0" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-1[] (https://cdn.shopify.com/s/files/1/0296/9253/files/pensa-horse-cycles-designboom02.jpg?2505055089777225991)
+![] (https://cdn.shopify.com/s/files/1/0296/9253/files/pensa-horse-cycles-designboom02.jpg?2505055089777225991)
 	
 <img src="http://s3files.core77.com/blog/images/2014/07/BikeDesignPensa.jpg" />

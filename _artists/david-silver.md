@@ -1,7 +1,7 @@
 ---
 title: David Silver
 description: 
-image: http://cdn.shopify.com/s/files/1/0296/9253/collections/David_Bio_Pic_1024x1024.jpg
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/David-Silver-Floppy-Disk-Framed.jpg?7807680266160806948
 profileurl: http://www.fiercelycurious.com/collections/david-silver
 layout: artist
 ---

@@ -11,6 +11,11 @@ Dana James' studies in abstraction hold hints and nuances of technology which li
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/Red-Breather_1024x1024.jpg?2224998223906529005)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/Cassette_1024x1024.jpg?2224998223906529005)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/Transient-Pool_1024x1024.jpg?2224998223906529005)
+TRANSIENT POOL
+
+
+Ink, oil on canvas, 28 x 28 Inches, 2015 
+
 
 ## PROCESS
 

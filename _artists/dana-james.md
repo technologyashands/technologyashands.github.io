@@ -26,12 +26,12 @@ Ink, oil on canvas, 28 x 28 Inches, 2015
 
 ## PROCESS
 
-Red Breather in the works.
+RED BREATHER in the works-
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/redbeatherprogressshot1.JPG?321209120926537443)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/redbreatherprogresshot2.JPG?321209120926537443)
-Cassette in the works.
+CASSETTE in the works-
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/casetteprogressshot.jpg?321209120926537443)
-Transient Pool in the works.
+TRANSIENT POOL in the works-
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/TransietnPoolProgressShot.JPG?321209120926537443)
 
 ##USAGE OF TECHNOLOGY

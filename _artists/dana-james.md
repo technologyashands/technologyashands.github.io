@@ -19,7 +19,7 @@ Dana James' studies in abstraction hold hints and nuances of technology which li
 Red Breather in the works.
 ![] (https://cdn.shopify.com/s/files/1/0296/9253/files/casetteprogressshot.jpg?321209120926537443)
 Cassette in the works.
-![] (https://cdn.shopify.com/s/files/1/0296/9253/files/Transient-Pool_1024x1024.jpg?2224998223906529005)
+![] (https://cdn.shopify.com/s/files/1/0296/9253/files/TransietnPoolProgressShot.JPG?321209120926537443)
 Transient Pool in the works.
 
 ##USAGE OF TECHNOLOGY

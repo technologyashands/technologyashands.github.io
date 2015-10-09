@@ -1,7 +1,7 @@
 ---
 title: Horse Cycles
 description: 
-image: http://s3files.core77.com/blog/images/2014/07/OM2014-Pensa_Horse-1.jpg"/
+image: <img src="http://s3files.core77.com/blog/images/2014/07/OM2014-Pensa_Horse-1.jpg"/>
 profileurl: http://www.fiercelymade.com/pages/Horse
 layout: artist
 ---

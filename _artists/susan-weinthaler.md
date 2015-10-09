@@ -2,7 +2,7 @@
 title: Susan Weinthaler
 description: 
 image: https://cdn.shopify.com/s/files/1/0296/9253/files/SUSAN-WEINTHALER-PROCESS-MAIN.jpg?873580998709554944
-profileurl: http://www.fiercelycurious.com/collections/david-silver
+profileurl: http://www.fiercelycurious.com/collections/susan-weinthaler
 layout: artist
 ---
 

@@ -9,7 +9,15 @@ layout: artist
 Dana James' studies in abstraction hold hints and nuances of technology which lingers almost as the underlying residue of our modern existence and daily lives. It's incredible to see how her work morphs through the process shots.
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/Red-Breather_1024x1024.jpg?2224998223906529005)
+RED BREATHER
+
+Oil and encaustic on canvas, 60 x 48 Inches, 2015
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/Cassette_1024x1024.jpg?2224998223906529005)
+CASSETTE
+
+Oil, ink on canvas, 30 x 24 Inches, 2015
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/Transient-Pool_1024x1024.jpg?2224998223906529005)
 TRANSIENT POOL
 

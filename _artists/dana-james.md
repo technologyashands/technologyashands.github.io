@@ -1,7 +1,7 @@
 ---
 title: Dana James
 description: 
-image: http://cdn.shopify.com/s/files/1/0482/2421/files/CHRIS_PERNT_BW_1024x1024.jpg
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/Red-Breather_1024x1024.jpg?321209120926537443
 profileurl: http://www.fiercelycurious.com/collections/dana-james
 layout: artist
 ---

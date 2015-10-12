@@ -67,6 +67,10 @@
   
 }
 
+#textblock1{
+  display:none;
+}
+
     .gridbox{
       width:100%;
       margin:auto;

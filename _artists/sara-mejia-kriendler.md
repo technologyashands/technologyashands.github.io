@@ -5,6 +5,11 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-KRIENDLER-TECH-AS-
 profileurl: http://www.fiercelycurious.com/collections/sara-mejia-kriendler
 layout: artist
 ---
+PEAKS TO RISE,
+Hydrocal,
+2015,
+24" x 9" x 1" each,
+24"x 29" x 1" together
 
 Sara will be displaying three brand new works, tablets, which have utlizied defunct equipment and discarded appliances to create the reliefs and shapes you see here.
 

@@ -6,7 +6,7 @@ profileurl: http://www.fiercelycurious.com/collections/sara-lynn-sterling
 layout: artist
 ---
 
-Sara Lynn Sterling will be showcasing a new photographic group from her String Theory series which was shot using her iphone camera and each print is hand finished with embroidery thread stitching.
+Sara Lynn Sterling will be showcasing a new photographic group from her String Theory series which was shot using her digital camera and each print is hand finished with embroidery thread stitching.
 
 ##PROCESS
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-PROCESS-1.jpg?1122424877518274988)

@@ -6,6 +6,10 @@ profileurl: http://www.matilde-alessandra.com/
 layout: artist
 
 ---
+MODERN WONDER 2015 – dynamic light piece
+
+Wood, plexiglas, LEDs, W 48 x  H 21 x D 4 inches, Edition of 3
+
 Matilde Alessandra is an artist and designer specializing in light and installation displays. We're exciting to be showcasing an ever changing piece of hers at our upcoming show!
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/MODERN-WONDER-MATILDE-ALESSANDRA-2.jpg?2068515833458866722)

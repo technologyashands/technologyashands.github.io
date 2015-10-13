@@ -1,7 +1,7 @@
 ---
 title: Sara Mejia Kriendler
 description: 
-image: http://cdn.shopify.com/s/files/1/0296/9253/collections/IMG_1622_1_1024x1024.jpg
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-KRIENDLER-TECH-AS-HANDS-PIECES.jpg?6719508056328805575
 profileurl: http://www.fiercelycurious.com/collections/sara-mejia-kriendler
 layout: artist
 ---

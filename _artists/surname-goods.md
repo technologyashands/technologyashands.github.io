@@ -27,3 +27,8 @@ Surname Goods will be showing a brand new selection of hand crafted scout stools
 CAD Renderings
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-SCOUT-STOOL-PLAN-INV.jpg?13511963294580445596)
+
+##USAGE OF TECHNOLOGY
+"Many of our design ideas involve a fresh look at classic pieces, using reclaimed and sustainable materials in ways that are subtle and clean; and technology to allow us to expand our horizons, while it’s aesthetic influence remains quiet. We got our start using computer aided fabrication techniques through a parallel project to Surname, at first building a counter top CNC router, and then an entire fabrication business around it. Over the years we have found the synthesis of computer aided fabrication with more traditional techniques, that we are drawn to over and again, to be a boon creatively. And it allows us as a small, locally based operation to create objects that might be too complex or labor intensive otherwise. 
+
+The Scout Counter Stool is a melding of a handful of things old - the building techniques of wedged mortise and tenon, and the antique wood salvaged from dismantled New York area buildings - with new CNC fabrication techniques that create the gentle slope of the Scout’s top. We finish the tenons off with a metal wedge, which provides stability and a beautifully subtle design detail. Hand-mitered metal stays strengthen the legs and provide a foot rest." - Surname Goods

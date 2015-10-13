@@ -7,7 +7,7 @@ layout: artist
 ---
 DIGIZOMB 01 - 20 x 28 Inches - Photographic pigment print - 2015
 
-Photographer, Dan Wonderly has created a entirely new body of work entitled, Digizombs. Having constructed ocular units, Dan has taken digital photographs of his subjects who are enthralled in the world of the internet, totally disengaged with the present world around them.
+Photographer, Dan Wonderly has created a entirely new body of work entitled, Digizombs. This newest digital photographic series has Dan's subjects wearing his hand constrcuted ocular units and he has captured them completely enthralled in the world of the internet and totally disengaged with the present world around them.
 
 will be showcasing and creating <a href="http://www.digizombs.com/">digizombs in the style of Danbot:
 

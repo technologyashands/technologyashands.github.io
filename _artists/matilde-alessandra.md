@@ -20,4 +20,4 @@ I arrived at this medium through the stage, having trained Theatre Design.Theatr
 
 The inclination to use words has crept in more and more in the past couple of years, a result of my fascination with all luminous signage: the very concept of a message that is conveyed and amplified by light, that becomes more powerful and alluring through light, for me is simply amazing.
 
-It also stems from a desire to bring my work to a more expressive level: by contrast my light installations are often about formal elegance and balance, so I was compelled to develop works where I could really say something. I play with the rawness of words and phrases placed within formal, startlingly graceful settings." Matilde Alessandra
+It also stems from a desire to bring my work to a more expressive level: by contrast my light installations are often about formal elegance and balance, so I was compelled to develop works where I could really say something. I play with the rawness of words and phrases placed within formal, startlingly graceful settings." -Matilde Alessandra

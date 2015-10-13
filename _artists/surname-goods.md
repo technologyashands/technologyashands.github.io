@@ -6,13 +6,12 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-BLACKENED
 profileurl: http://www.fiercelymade.com/pages/surname-goods
 layout: artist
 ---
-Scout Counter Stool - 24”,
-Copper or brass accents available,
+BLACKENED OAK SCOUT STOOL
 
--Blackened Oak (above)
+24”, Copper or brass accents available
 
 1[](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut-STOOL-FULL.jpg?631078632308718381)
--Black Walnut
+BLACK WALNUT SCOUT STOOL
 
 Surname Goods will be showing a brand new selection of hand crafted scout stools in walnut and blackened oak-
 

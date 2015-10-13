@@ -14,4 +14,4 @@ Surname Goods will be showing a brand new selection of stools
 
 CAD Renderings
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-STOOL-CUT.jpg?13511963294580445596)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-SCOUT-STOOL-PLAN-INV.jpg?13511963294580445596)

@@ -6,7 +6,8 @@ profileurl: http://www.fiercelycurious.com/collections/dael-oates
 layout: artist
 ---
 
-Dael will be showcasing digital captures he took of Fiercely Made knifemaker, Chelsea Miller's tools after shooting a video about her.
+Photographer, Dael Oates will be showcasing a new series of digital captures that he took of tools in the shop of Fiercely Made knifemaker, Chelsea Miller.
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/DAEL_OATES_LAYOUT_CMK_TOOLS_1.jpg?8354744752497847398)
 
 ##PROCESS

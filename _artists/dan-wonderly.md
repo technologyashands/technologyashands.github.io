@@ -5,8 +5,11 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB
 profileurl: http://www.fiercelycurious.com/collections/dan-wonderly-bio
 layout: artist
 ---
+DIGIZOMB 01 - 20 x 28 Inches - Photographic pigment print - 2015
 
-Dan will be showcasing and creating <a href="http://www.digizombs.com/">digizombs in the style of Danbot:
+Photographer, Dan Wonderly has created a entirely new body of work entitled, Digizombs. Having constructed ocular units, Dan has taken digital photographs of his subjects who are enthralled in the world of the internet, totally disengaged with the present world around them.
+
+will be showcasing and creating <a href="http://www.digizombs.com/">digizombs in the style of Danbot:
 
 <img src="http://cdn.shopify.com/s/files/1/0296/9253/t/12/assets/danbio8.jpg?11880984117798722211"/>
 

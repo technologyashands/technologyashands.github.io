@@ -5,7 +5,8 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut
 profileurl: http://www.fiercelymade.com/pages/surname-goods
 layout: artist
 ---
-Surname Goods will be showing a brand new selection of stools
+Surname Goods will be showing a brand new selection of hand crafted stools-
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut-STOOL.jpg?1491265492255751212)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut-STOOL-2.jpg?1491265492255751212)
 ##PROCESS

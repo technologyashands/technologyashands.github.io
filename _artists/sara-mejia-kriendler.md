@@ -8,6 +8,7 @@ layout: artist
 PEAKS TO RISE,
 Hydrocal,
 2015,
+
 24" x 9" x 1" each,
 24"x 29" x 1" together
 

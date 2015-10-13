@@ -10,7 +10,7 @@ BLACKENED OAK SCOUT STOOL
 
 24”, Copper or brass accents available
 
-1[](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut-STOOL-FULL.jpg?631078632308718381)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut-STOOL-FULL.jpg?631078632308718381)
 BLACK WALNUT SCOUT STOOL
 
 Surname Goods will be showing a brand new selection of hand crafted scout stools in walnut and blackened oak-

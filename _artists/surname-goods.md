@@ -1,5 +1,5 @@
 ---
-title: Black Table
+title: Surname Goods
 description: 
 image: https://cdn.shopify.com/s/files/1/0296/9253/files/SURNAME-GOODS-NewWalnut-STOOL-3.jpg?14598230006585105799
 profileurl: http://www.fiercelymade.com/pages/surname-goods

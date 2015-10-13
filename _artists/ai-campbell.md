@@ -1,7 +1,7 @@
 ---
 title: Ai Campbell
 description: 
-image: https://cdn.shopify.com/s/files/1/0296/9253/files/AI_CAMPBELL_TECH_AS_HANDS.jpg?10166786892304849471
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/AI_CAMPBELL_TECH_AS_HANDS.jpg?163449163162013928
 profileurl: http://www.fiercelycurious.com/collections/ai-campbell
 layout: artist
 ---

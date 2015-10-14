@@ -7,6 +7,10 @@ layout: artist
 ---
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/image1_13.JPG?8560839126389323014)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/image3_2.JPG?3038154057177350155)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/PEG-WOODWORKING-ON-STEELHEART-CHAIR.jpg?8296652377699038757)
+
+##PROCESS
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/PEG-WOODWORKING-CORD-WEAVING-STEELHEART-CHAIR.jpg?8296652377699038757)
 
 ##USAGE OF TECHNOLOGY
 

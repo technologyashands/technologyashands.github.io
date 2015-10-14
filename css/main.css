@@ -98,6 +98,7 @@ h2{
 .sitebox{
   float:left;
   width:220px;
+  height:300px;
   border-radius:2%;
   background-color:white;
   display:inline-block;
@@ -114,11 +115,11 @@ h2{
 
 .sitebox:nth-child(4n+2){
   margin-left:80px;
-  margin-right:80px;
+  margin-right:40px;
 }
 
 .sitebox:nth-child(4n+3){
-  margin-left:80px;
+  margin-left:40px;
   margin-right:80px;
 }
 

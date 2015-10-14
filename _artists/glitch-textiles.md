@@ -14,6 +14,13 @@ WOVEN THROW, 53" x 71", 100% Cotton, Made in the USA
 
 Easy Care: Machine Washable, Dry Low, Iron Low
 
+##PROCESS
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/GlitchTextilesProcess-IMG_0739.jpg?103675249565022644)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/GlitchTextilesProcess-IMG_0745.jpg?103675249565022644)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/GlitchTextilesProcess-IMG_0738.jpg?103675249565022644)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/GlitchTextilesProcess-IMG_0732.jpg?103675249565022644)
+
 ##USAGE OF TECHNOLOGY
 
 "Electronic media operate primarily on only two of our senses: sight and hearing. Though I work with media technologies, electronics and electronic media, I tend to focus on condensing these in such a way that the technologies, tools, and media themselves become entangled with what would normally be read as the content or the message. As electronic media (digital or analog), images, video, and sound become reduced to signal—a manifestation of some order defined within a certain system—Light and Sound themselves become raw materials for reconstituting electronic signals back into physiological experience.

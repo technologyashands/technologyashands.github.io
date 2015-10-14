@@ -12,7 +12,6 @@ Abstract painter, Emily Church has completed a new series of visual studies she 
 <img src="/images/emily1.jpg"/>
 <img src="/images/emily2.jpg"/>
 <img src="/images/emily3.jpg"/>
-<img src="/images/emily4.jpg"/>
 
 ##PROCESS
 

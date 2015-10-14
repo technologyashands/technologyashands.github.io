@@ -112,12 +112,12 @@ h2{
   background-position:center;
 }
 
-.sitebox:nth-child(4n+1){
+.sitebox:nth-child(4n+2){
   margin-left:40px;
   margin-right:40px;
 }
 
-.sitebox:nth-child(4n+2){
+.sitebox:nth-child(4n+3){
   margin-left:40px;
   margin-right:40px;
 }

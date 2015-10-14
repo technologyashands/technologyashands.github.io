@@ -7,7 +7,7 @@ layout: artist
 ---
 
 Mia Hebib of Oblik Atelier hand forms all of her unique jewelry pieces. For this show, Mia is interested in exploring how scanning and 3D printing a copy of her hand formed piece yields different or similar results.
-We'll be seeing both the hand formed piece as well as it's 3D printed sister to explore the differences!
+We'll be seeing both the hand formed piece as well as it's 3D printed version to explore the differences!
 
 ##PROCESS
 

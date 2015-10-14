@@ -15,4 +15,4 @@ Emily will be combining digital photography with painting techniques to produce 
 
 ##PROCESS
 
-https://cdn.shopify.com/s/files/1/0296/9253/files/11665753_10153527235285555_645821459914412688_n.jpg?7615820089017516610
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/11665753_10153527235285555_645821459914412688_n.jpg?7615820089017516610)

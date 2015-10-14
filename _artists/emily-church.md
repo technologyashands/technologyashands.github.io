@@ -7,8 +7,6 @@ layout: artist
 ---
 NEW YORK IS MY TEMPLE series, 6×4″ painted digital photographs, 2012-2015
 
-taken between 2012 and 2015 on my iphone and printed on Kodak paper, then painted with acrylic paint.
-
 Abstract painter, Emily Church has completed a new series of visual studies she has been working on for years. Drawing on the inspiration found in her everyday environment, she uses her iphone to capture imagery which she prints on Kodak paper and paints with acrylic paint to become unique and new compositions which ultimately feed into all of her abstract work.
 
 <img src="/images/emily1.jpg"/>

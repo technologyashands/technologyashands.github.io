@@ -12,3 +12,7 @@ Emily will be combining digital photography with painting techniques to produce 
 <img src="/images/emily2.jpg"/>
 <img src="/images/emily3.jpg"/>
 <img src="/images/emily4.jpg"/>
+
+##PROCESS
+
+https://cdn.shopify.com/s/files/1/0296/9253/files/11665753_10153527235285555_645821459914412688_n.jpg?7615820089017516610

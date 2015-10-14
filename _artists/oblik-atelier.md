@@ -1,7 +1,7 @@
 ---
 title: Oblik Atelier
 description: 
-image: https://cdn.shopify.com/s/files/1/0296/9253/files/BANDED_BRACELET-OBLIK-ATELIER_2048x2048.jpg?903994952440375045
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/image1_12.JPG?7259832002897909810
 profileurl: http://www.fiercelymade.com/pages/oblik-atelier
 layout: artist
 ---

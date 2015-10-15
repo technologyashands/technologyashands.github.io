@@ -1,12 +1,23 @@
 ---
 title: Ai Campbell
 description: 
-image: https://cdn.shopify.com/s/files/1/0296/9253/files/AI_CAMPBELL_TECH_AS_HANDS.jpg?163449163162013928
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/islands01.jpg?8147059875492707662
 profileurl: http://www.fiercelycurious.com/collections/ai-campbell
 layout: artist
 ---
 
+ISLANDS 01, mixed media, 10 x 6 Inches, 2015
+
 Most of Ai Campbell's works are hand inked layer upon layer to create the dreamy, etheral works we know of hers today. However, she has experimented in the past with digital renderings where she layers up imagery of her hand painted works through skillful digital design. All works are still originals, but allow Ai the chance to experiment with her vernaculr in new ways.
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/islands02.jpg?8147059875492707662)
+ISLANDS 02, mixed media,10 x 6 Inches, 2015
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/eel.jpg?8147059875492707662)
+BONES 02 (eel), mixed media, 11 x 5 Inches, 2013
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/iguana_3.jpg?8147059875492707662)
+BONES 03 (iguana), mixed media, 11 x 7 Inches, 2015
 
 ##PROCESS
 

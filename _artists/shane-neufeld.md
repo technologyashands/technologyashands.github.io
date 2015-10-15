@@ -10,8 +10,10 @@ MOONLIGHT MILE, 36 X 60 Inches, Oil and spray paint on canvas
 Shane is creating brand new works for the show as an evolution to his Digital Archetype series. 
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SHANE_NEUFELD_01.jpg?17922619998297552089)
+UNTITLED, 36 X 48 Inches, Oil and spray paint on canvas
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SHANE_NEUFELD_03.jpg?17922619998297552089)
-UNTITLED, 36” X 48 Inches, Oil and spray paint on canvas
+UNTITLED, 36 X 48 Inches, Oil and spray paint on canvas
 
 ##PROCESS
 

@@ -5,7 +5,7 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB
 profileurl: http://www.fiercelycurious.com/collections/dan-wonderly-bio
 layout: artist
 ---
-DIGIZOMB 01 - 20 x 28 Inches - Photographic pigment print - 2015
+DIGIZOMB RACHEL - 20 x 28 Inches - Photographic pigment print - 2015
 
 Photographer, Dan Wonderly has created a entirely new body of work entitled, Digizombs. This newest digital photographic series has Dan's subjects wearing his hand constrcuted ocular units and he has captured them completely enthralled in the world of the internet and totally disengaged with the present world around them.
 

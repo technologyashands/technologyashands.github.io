@@ -24,15 +24,19 @@ Marbleized hexagonal prism constructed of wood. Pictured with sanseviria plant.
 
 ##PROCESS
 Bobby's Tetrahedron Table being joined with precision-
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0742.JPG?10080166468727209796)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0742.JPG?10867955300849467745)
 
 30° Nesting Tables -
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0794.JPG?10080166468727209796)
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/FullSizeRender_21.jpg?17161530714090460616)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/FullSizeRender-_21.jpg?10867955300849467745)
 
 Carrara Planter taking shape-
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787_1.JPG?17161530714090460616)
+
 Prep for coloration-
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787_1.JPG?17161530714090460616)
 
 ##USAGE OF TECHNOLOGY

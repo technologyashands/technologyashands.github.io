@@ -18,6 +18,23 @@ Solid ash, bronze glass, bronze bolts. Whitewashed finish
 Tables are approximately 18" in width; lower table is 18"H and taller table is 24"H.
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/CARRERA_PLANTER_ROBERT_SUKRACHAND.jpg?5849879705157306355)
-CARRARA' PLANTER
+CARRARA PLANTER
 Marine MDF, resin, latex paint, charcoal and acrylic topcoat
 Marbleized hexagonal prism constructed of wood. Pictured with sanseviria plant.
+
+##PROCESS
+Bobby's Tetrahedron Table being joined with precision-
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0742.JPG?10080166468727209796)
+
+30° Nesting Tables -
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0794.JPG?10080166468727209796)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/FullSizeRender_21.jpg?17161530714090460616)
+
+Carrara Planter taking shape-
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787_1.JPG?17161530714090460616)
+Prep for coloration-
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787_1.JPG?17161530714090460616)
+
+##USAGE OF TECHNOLOGY
+
+"This body of work reflects a renewed interest in basic geometry and is inspired specifically by the Archimedean solids. The tetrahedon coffee table, for example, seeks to remove the volume from one of these polyhedra and break a complex shape down into simple forms - 4 hexagons and 4 triangles. Math was key in the construction of these pieces, and it took some help from the computer to determine the compound miters that join the bases of this coffee table and Carrara planter. This is how I like to build furniture. Simple assemblies that come together to make a complex but visually unified whole." -Robert Sukrachand

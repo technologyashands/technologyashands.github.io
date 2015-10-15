@@ -9,6 +9,20 @@ layout: artist
 Photographer, Dael Oates will be showcasing a new series of digital captures that he took of tools in the shop of Fiercely Made knifemaker, Chelsea Miller.
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/DAEL_OATES_LAYOUT_CMK_TOOLS_1.jpg?8354744752497847398)
+CHELSEA. 2015, Photographic Pigment Prints: 11 x 14 Inches each, Edition 20 (total)
+
+Names:
+(left to right)
+
+Hacksaw,
+Silence,
+Cleaver,
+Small Knife,
+Hands,
+Kill me,
+Aid,
+Flamingo,
+Breathe
 
 ##PROCESS
 

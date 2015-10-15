@@ -24,7 +24,7 @@ DIGIZOMB RENE - 20 x 28 Inches - Photographic pigment print - 2015
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB_04_ThomasBen_100.ARW.p.jpg?15049579229277844490)
 DIGIZOMB BEN - 20 x 28 Inches - Photographic pigment print - 2015
  
-Dan's newest series, <a href="http://www.digizombs.com/"></a>digizombs was inspired by his own self portrait, entitled Danbot:
+Dan's newest series, <a href="http://www.digizombs.com/">digizombs was inspired by his own self portrait, entitled Danbot:</a>
 
 <img src="http://cdn.shopify.com/s/files/1/0296/9253/t/12/assets/danbio8.jpg?11880984117798722211"/>
 

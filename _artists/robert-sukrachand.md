@@ -28,7 +28,7 @@ Bobby's Tetrahedron Table being joined with precision-
 
 30° Nesting Tables -
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0794.JPG?10080166468727209796)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0794.JPG?12304489815912294810)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/FullSizeRender-_21.jpg?10867955300849467745)
 
 Carrara Planter taking shape-

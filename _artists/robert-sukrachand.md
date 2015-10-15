@@ -35,11 +35,8 @@ Bobby's Tetrahedron Table being joined with precision-
 
 Carrara Planter taking shape-
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787_1.JPG?17161530714090460616)
-
-Prep for coloration-
-
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787_1.JPG?17161530714090460616)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0787-_1.jpg?16779989930572144009)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0804.JPG?16779989930572144009)
 
 ##USAGE OF TECHNOLOGY
 

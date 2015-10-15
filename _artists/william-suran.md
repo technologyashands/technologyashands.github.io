@@ -22,3 +22,19 @@ William Suran photographs peonies in the darkness of the night under controlled 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/WILLIAM-SURAN-PROCESS-3.5.jpg?13514497157728127956)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/WILLIAM-SURAN-PROCESS-5.jpg?13514497157728127956)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/WILLIAM-SURAN-PROCESS-6.jpg?13514497157728127956)
+
+##USAGE OF TECHNOLOGY
+
+"For a large portion of my painting career I've worked strictly from life.  To paint from a photo or 
+
+screen was somehow a 'cheat'.  With that being said I was constantly at odds with flower still life 
+
+setups in my studio due to the process of wilting, and the time limits to capture an image on the 
+
+move. Eventually I got over that and bought a nice digital DSLR camera. Shooting multiple 
+
+exposures and bringing them into photoshop to manipulate the images freed up an enormous 
+
+amount of creativity to make an image to paint from that can deviate from the strict rules of 
+
+painting from life." -William Suran

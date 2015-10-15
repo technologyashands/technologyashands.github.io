@@ -23,7 +23,9 @@ Marine MDF, resin, latex paint, charcoal and acrylic topcoat
 Marbleized hexagonal prism constructed of wood. Pictured with sanseviria plant.
 
 ##PROCESS
+
 Bobby's Tetrahedron Table being joined with precision-
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/IMG_0742.JPG?10867955300849467745)
 
 30° Nesting Tables -

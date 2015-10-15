@@ -11,9 +11,6 @@ Photographer, Dael Oates will be showcasing a new series of digital captures tha
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/DAEL_OATES_LAYOUT_CMK_TOOLS_1.jpg?8354744752497847398)
 CHELSEA. 2015, Photographic Pigment Prints: 11 x 14 Inches each, Edition 20 (total)
 
-Names:
-(left to right)
-
 Hacksaw,
 Silence,
 Cleaver,

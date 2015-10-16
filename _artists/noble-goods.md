@@ -8,7 +8,7 @@ layout: artist
 
 Noble Goods has created the Shard Table. This cocktail table was made by combining bent walnut plywood, concrete, brass.
 
-![](http://technologyashands.com/artists/dan-wonderly.html)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/honeycomb_tray_1.jpg?5517384324026542754)
 HONEYCOMB WALNUT TRAY - Smoke resin inlay, 19.5 x 11.5 Inches
 
 ##PROCESS

@@ -11,7 +11,6 @@ Sara Lynn Sterling will be showcasing a new photographic group from her String T
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-STRING-THEORY-A.jpg?17377211726947827732)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-STRING-THEORY-C.jpg?17377211726947827732)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-STRING-THEORY-D.jpg?17377211726947827732)
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-STRING-THEORY-E.jpg?17377211726947827732)
 
 ##PROCESS
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SARA-LYNN-STERLING-PROCESS-1.jpg?1122424877518274988)

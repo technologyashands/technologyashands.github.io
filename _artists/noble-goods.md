@@ -6,7 +6,7 @@ profileurl: http://www.fiercelymade.com/pages/noble-goods
 layout: artist
 ---
 
-Noble Goods has created the Shard Table. This cocktail table was made by combining bent walnut plywood, concrete, brass.
+THE SHARD TABLE, bent walnut plywood, concrete, brass, 48 L x 22.5 D x 15.5 H Inches, 2015
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/honeycomb_tray_1.jpg?5517384324026542754)
 HONEYCOMB WALNUT TRAY - Smoke resin inlay, 19.5 x 11.5 Inches

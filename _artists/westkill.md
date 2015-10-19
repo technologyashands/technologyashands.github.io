@@ -1,3 +1,12 @@
+---
+title: Westkill
+description: 
+image: https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_PURPLE_FADE.jpg?11391661561187416560
+profileurl: http://www.fiercelymade.com/pages/westkill
+layout: artist
+---
+https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_WHITE_FADE.jpg?11391661561187416560
+
 ##USAGE OF TECHNOLOGY
 
 "These clocks are deeply linked with technology both aesthetically and functionally. First and foremost they feature a mechanism which uses quartz crystal integrated with electronic and mechanical parts to tell time. Despite being invented almost 90 years ago this type of mechanism is the most widely used timekeeping technology today. The combination of electron, mechanical and crystal parts also makes them much more accurate then the best mechanical timepieces. 

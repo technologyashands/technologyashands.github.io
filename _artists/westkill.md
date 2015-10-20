@@ -5,6 +5,10 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_PURPLE_FADE.jp
 profileurl: http://www.fiercelymade.com/pages/westkill
 layout: artist
 ---
+
+Cousins Joe Silver and Justin Horowitz are the duo behind Westkill's hand screen printed clocks. Westkill brings a high-art sensibility to interior spaces, producing beautiful, functional objects that feel essential to a room.
+Sleek lines collide with tactile surfaces in clocks made from minimally finished wood, the texture of the grain remains intact. Each work begins with raw hardwood, hewn from the branches and trunks of Northeast-native trees: cherry, walnut, ash. Using a proprietary screen-printing technique, eco-friendly pigments are transferred to the irregularly shaped timber in graphic patterns and saturated swaths of color overlaying the natural tone of the wood. 
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_WHITE_FADE.jpg?11391661561187416560)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SP1114_01.jpg?3285586024221675620)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/SP1140_01.jpg?3285586024221675620)

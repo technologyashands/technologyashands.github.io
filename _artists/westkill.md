@@ -5,7 +5,10 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_PURPLE_FADE.jp
 profileurl: http://www.fiercelymade.com/pages/westkill
 layout: artist
 ---
-https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_WHITE_FADE.jpg?11391661561187416560
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/WESTKILL_WHITE_FADE.jpg?11391661561187416560)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/SP1114_01.jpg?3285586024221675620)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/SP1140_01.jpg?3285586024221675620)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/SP1141_01_1.jpg?3285586024221675620)
 
 ##USAGE OF TECHNOLOGY
 

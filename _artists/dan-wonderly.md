@@ -9,19 +9,19 @@ DIGIZOMB RACHEL - 20 x 28 Inches - Photographic pigment print - 2015
 
 Photographer, Dan Wonderly has created a entirely new body of work entitled, Digizombs. This newest digital photographic series has Dan's subjects wearing his hand constrcuted ocular units and he has captured them completely enthralled in the world of the internet and totally disengaged with the present world around them.
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB_03_Mimoza_080.ARW.p.jpg?15049579229277844490)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_MIMOZA.jpg?8259736920798729283)
 DIGIZOMB MIMOZA - 20 x 28 Inches - Photographic pigment print - 2015
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB_06_RogerNova_050.ARW.p.jpg?15049579229277844490)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_ERIN_NOVA.jpg?8259736920798729283)
 DIGIZOMB ROGER & NOVA - 20 x 28 Inches - Photographic pigment print - 2015
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB_07_Graham_140.ARW.p.jpg?15049579229277844490)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_NITYA.jpg?8259736920798729283)
 DIGIZOMB NITYA - 20 x 28 Inches - Photographic pigment print - 2015
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB_01_Rene_032.ARW.p.jpg?15049579229277844490)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_RENE.jpg?8259736920798729283)
 DIGIZOMB RENE - 20 x 28 Inches - Photographic pigment print - 2015
 
-![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMBS_2015_DIGIZOMB_04_ThomasBen_100.ARW.p.jpg?15049579229277844490)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DIGIZOMB_BEN.jpg?8259736920798729283)
 DIGIZOMB BEN - 20 x 28 Inches - Photographic pigment print - 2015
  
 Dan's newest series, <a href="http://www.digizombs.com/">digizombs</a> was inspired by his own self portrait, entitled Danbot:

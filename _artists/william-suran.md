@@ -5,7 +5,10 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/WILLIAM-SURAN-FINAL.jpg
 profileurl: http://www.fiercelycurious.com/collections/william-suran
 layout: artist
 ---
-DEMON 17, 9 x 12 Inches, 2015
+DEMON 18
+
+Watercolor on paper, 12 x 16 Inches unframed, 16x20 Inches framed, 2015
+
 
 William Suran photographs peonies in the darkness of the night under controlled lighting. He then uses computer programs like photoshop to create unique digital compositions of his studies. Only then does he begin his work by hand, which is then to delicately paint the composition he has created with watercolors. He applies layer upon layer this translucent medium to build into the rich colorations and nuances you see here. Each unique work can take a month to create.
 

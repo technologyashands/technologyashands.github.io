@@ -7,6 +7,7 @@ layout: artist
 ---
 
 ZIPPER CUTTING/SERVING BOARD
+
 Wood concrete and rubber over polish steel frame, 18"x33"x(h)1", 2015
 
 Carlos Meza thrives in the profound effect that new technologies have on architecture and design. He currently explores ideas of architecture, traditional crafting and digital design processes throughsmall functional and non-functional objects, implementing materials and techniques traditionally used in architecture, such as concrete and wood. 
@@ -17,6 +18,7 @@ His proposal is translated into simple objects, where the use of concrete is pre
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 ZIPPER COUNTER TABLE
+
 Wood concrete and rubber over polish steel frame, 48"x22"x(h)37", 2015
 
 ##PROCESS

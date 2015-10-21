@@ -5,3 +5,8 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/Kirsten_Kay_Thoen_Fog_F
 profileurl: http://www.fiercelycurious.com/collections/kirsten-kay-thoen
 layout: artist
 ---
+##PROCESS
+
+##USAGE OF TECHNOLOGY
+
+"An attraction to otherworldliness compels me to travel to specific sites in nature.  Photographing the sites becomes part of a meditative act of profound connection.  I then rework my images of landscapes and natural elements into experiential forms.  My process utilizes advanced digital manufacturing techniques to create work that reflects on our primitive connections to nature and phenomena.  Geometry functions to explore a curiosity with the mystical nature of chemical bonds and the intersections between the material and immaterial. In attempting to transform my nature-based images into symbiotic forms, my work sheds light on the increasingly complex roles technology plays in shaping contemporary relationship to nature." - Kirsten Kay Thoen

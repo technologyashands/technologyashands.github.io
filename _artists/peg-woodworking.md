@@ -5,6 +5,10 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/PEG-WOODWORKING-CHAIR.j
 profileurl: http://www.fiercelymade.com/pages/peg-woodworking
 layout: artist
 ---
+STEELHEART DINING CHAIR
+
+Blackened steel frame with solid braid cotton cord, 21L x 17W x 34.5H Inches, 2015
+
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/image1_13.JPG?8560839126389323014)
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/image3_2.JPG?3038154057177350155)
 

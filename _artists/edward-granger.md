@@ -5,6 +5,10 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/Grid-of-the-Infinite_10
 profileurl: http://www.fiercelycurious.com/collections/edward-granger
 layout: artist
 ---
+GRID OF THE INFINITE
+
+Acrylic and Latex on canvas, 40 x 40 Inches, 2015 
+
 
 Edward Granger has been thriving with his dynamic new large scale works. For Technology As Hands, Edward will be painting large 4 ft x 8 ft panels which will be installed in a prismatic formation at the gallery. Enjoy soome process shots here along with his computerized color schematics for reference. 
 

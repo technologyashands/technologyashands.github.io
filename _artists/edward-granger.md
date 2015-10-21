@@ -6,6 +6,8 @@ profileurl: http://www.fiercelycurious.com/collections/edward-granger
 layout: artist
 ---
 
+Edward Granger has been thriving with his dynamic new large scale works. For Technology As Hands, Edward will be painting large 4 ft x 8 ft panels which will be installed in a prismatic formation at the gallery. Enjoy soome process shots here along with his computerized color schematics for reference. 
+
 ##PROCESS
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/EDWARD-GRANGER-PROCESS-4.jpg?16365197519431348185)

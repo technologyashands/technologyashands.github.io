@@ -5,6 +5,13 @@ image: https://cdn.shopify.com/s/files/1/0296/9253/files/Grid-of-the-Infinite_10
 profileurl: http://www.fiercelycurious.com/collections/edward-granger
 layout: artist
 ---
+
+##PROCESS
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/EDWARD-GRANGER-PROCESS-4.jpg?16365197519431348185)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/EDWARD-GRANGER-PROCESS-5.jpg?16365197519431348185)
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/EDWARD-GRANGER-PROCESS-6.jpg?16365197519431348185)
+
 ##USAGE OF TECHNOLOGY
 
 "I've always been interested in creating works that ask the viewer to participate in the dialogue and/or the interaction between the object and environment. My aesthetic plays with the underlying graphs, threads, and fibers of color space technologies behind print and digital images through collage and large scale painting, allowing the threads and fibers to work together in various spatial, line and color pattern techniques.

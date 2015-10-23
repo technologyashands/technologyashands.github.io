@@ -10,7 +10,36 @@ Brooklyn based artist and designer, Phillip David Stearns is founder and creator
 These woven throws are not only cozy (we own one!), but they create subtle structures of our digital reality into intimate, tactile materials. Phillip's designs are expressions of the abstract and invisible language of digital technologies. He believes that the immaterial world of the digital has a vital materiality, and that materiality has the power to touch and move us. We're simply moved by their beauty.
 
 ![](https://cdn.shopify.com/s/files/1/0296/9253/files/006_255_253.JPG?9534841925828885944)
-006_255_253, WOVEN THROW, 53" x 71", 100% Cotton, Made in the USA
+006_255_253, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/007_243_244.JPG?9534841925828885944)
+007_243_244, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DCP_0055.jpg?9534841925828885944)
+DCP_0055, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/DCP_0212.jpg?9534841925828885944)
+DCP_0212, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/Glacial_Drift.jpeg?9534841925828885944)
+Glacial Drift, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/Human_Rhinovirus_Mirrored.jpg?9534841925828885944)
+Human Rhinovirus Mirrored, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/Nativistic.jpg?9534841925828885944)
+Nativistic, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/zFight.jpg?9534841925828885944)
+zFight, 53" x 71", 100% Cotton Woven Throw, Made in the USA
+
+
+
+
+
+
+
+
 
 Easy Care: Machine Washable, Dry Low, Iron Low
 

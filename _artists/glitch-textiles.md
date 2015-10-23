@@ -9,8 +9,8 @@ layout: artist
 Brooklyn based artist and designer, Phillip David Stearns is founder and creator the stunning weaves behind Glitch Textiles.
 These woven throws are not only cozy (we own one!), but they create subtle structures of our digital reality into intimate, tactile materials. Phillip's designs are expressions of the abstract and invisible language of digital technologies. He believes that the immaterial world of the digital has a vital materiality, and that materiality has the power to touch and move us. We're simply moved by their beauty.
 
-![](http://static1.squarespace.com/static/55c119dee4b015abaf6df174/55c12624e4b0d697a65a2133/55cb7219e4b03dbaa0796b08/1439396379753/2015-IMG_0623.jpg?format=750w)
-WOVEN THROW, 53" x 71", 100% Cotton, Made in the USA
+![](https://cdn.shopify.com/s/files/1/0296/9253/files/006_255_253.JPG?9534841925828885944)
+006_255_253, WOVEN THROW, 53" x 71", 100% Cotton, Made in the USA
 
 Easy Care: Machine Washable, Dry Low, Iron Low
 

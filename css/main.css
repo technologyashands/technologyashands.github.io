@@ -74,6 +74,10 @@ h2{
   margin:auto;
 }
 
+.introtext li{
+  padding:10px;
+}
+
 .introtext img{
   width:100%;
 }

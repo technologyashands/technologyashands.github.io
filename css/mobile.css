@@ -84,7 +84,7 @@
 
     .sitebox{
       width:28%;
-      padding:2%;
+      padding:2.5%;
       max-width:350px;
       height:40px;
       margin:auto;
@@ -196,6 +196,7 @@ footer h2{
 .footerbox{
  width:90%;
  margin:auto;
+ margin-top:20px;
   color:white;
   padding-top:50px;
   padding-bottom:50px;

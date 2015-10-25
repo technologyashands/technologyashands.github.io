@@ -145,6 +145,16 @@
   margin:autso;
 }
 
+.homebutton{
+  width:90%;
+  margin:auto;
+  font-size:10px;
+}
+
+.homebutton a{
+  color:black;
+}
+
 
 .introtext video{
   width:100%;
